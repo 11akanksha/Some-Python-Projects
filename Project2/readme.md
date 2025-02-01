@@ -1,1 +1,1 @@
-This is a love calculator app. (Just for fun)
+# This is a love calculator app. (Just for fun)
